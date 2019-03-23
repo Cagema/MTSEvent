@@ -40,7 +40,14 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Enter"/>
+                android:text="Log in"/>
+
+            <Button
+                android:id="@+id/buttonReg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Registration" />
         </LinearLayout>
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>
